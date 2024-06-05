@@ -1,4 +1,4 @@
 # DisTGranD
-DisTGranD: Granular Disaster Classifications using Twitter Dataset
+DisTGranD: Granular Event/Sub-event Classification for Disaster Response
 
 
